@@ -1,0 +1,44 @@
+.wrap{
+  width: 1440px;
+  margin: 0 auto;
+}
+.h1{
+  font-size: 40px;
+}
+.h2{
+  font-size: 28px;
+  font-weight: 500;
+}
+.h3{
+  font-size: 28px;  
+}
+.h4{
+
+}
+.h5{
+
+}
+h6{
+
+}
+.p{
+  font-size: 16px;
+}
+.flex{
+  display: flex;
+}
+.block{
+  display: block;
+}
+.bold{
+  font-weight: 700;
+}
+.paddingT50{
+  padding-top: 50px; 
+}
+.paddingB50{
+  padding-bottom: 50px; 
+}
+.marginB30{
+  margin-bottom: 30px;
+}
